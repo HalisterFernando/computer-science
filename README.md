@@ -1,1 +1,1 @@
-# computer-science
+Repositório com exercícios do módulo de Computer Science
